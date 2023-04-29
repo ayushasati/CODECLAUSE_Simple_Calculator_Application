@@ -1,4 +1,6 @@
 # CodeClause_Simple_Calculator_Application
+<a href="https://github.com/ayushasati/CODECLAUSE_Simple_Calculator_Application/blob/main/LICENSE
+"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
 
 This is a simple calculator application developed using Kotlin.
 
